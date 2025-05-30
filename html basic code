@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+
+<body>
+	<h1>Virat kholi</h1>
+	<h2>Rohit sharma</h2>
+
+	<h3>S iyer </h3>
+	<h4>V iyer </h4>
+	<h5>Rinku singh</h5>
+	<h6>H rana</h6>
+	<p>
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit atque labore, perspiciatis molestias quas eum
+		numquam eos ipsum, dicta magnam ad ratione hic aliquid possimus modi non natus quisquam sit.
+	</p>
+
+	<pre>
+
+
+
+			*
+		  * * 
+	    * * * 
+		  * * * * 
+		  * * *  *  *		
+	     	 
+	
+		
+	 </pre>
+	<!--Inline container  tag-->
+
+	<span style="background-color: brown;">Sumer kan</span>
+	<span style="background-color: brown;">Rinku singh</span>
+	<span style="background-color: brown;">Salman khan</span>
+
+	<!--block conatiner  tag-->
+
+	<div style="background-color: aqua;">Max</div>
+	<div style="background-color: aqua;">Dustin</div>
+	<div style="background-color: aqua;">Stubbes</div>
+
+	<h1>
+		<span style="color: blue;">G</span><span style=" color: red;">o</span><span style="color: yellow;">o</span><span
+			style="color: blue;">g</span><span style="color:green">l</span><span style="color: red">e</span>
+	</h1>
+	<h1>
+		<span style="color:orange;">Q</span>spider
+	</h1>
+
+</body>
+
+</html>
